@@ -1,5 +1,5 @@
 import urllib2
-
+import os
 req = urllib2.Request('http://www.google.com')
 try: urllib2.urlopen(req)
 except urllib2.URLError as e:
