@@ -1,0 +1,56 @@
+Xsession: X session started for pi at Sun Jul 15 20:02:28 UTC 2012
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+Xsession: X session started for pi at Tue Aug 11 09:46:48 UTC 2015
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(leafpad:1731): Gtk-WARNING **: Attempting to store changes into `/home/pi/.local/share/recently-used.xbel', but failed: Failed to create file '/home/pi/.local/share/recently-used.xbel.A4AA3X': No such file or directory
+
+(leafpad:1731): Gtk-WARNING **: Attempting to set the permissions of `/home/pi/.local/share/recently-used.xbel', but failed: No such file or directory
+
+(leafpad:1731): Gtk-WARNING **: Attempting to store changes into `/home/pi/.local/share/recently-used.xbel', but failed: Failed to create file '/home/pi/.local/share/recently-used.xbel.NGT42X': No such file or directory
+
+(leafpad:1731): Gtk-WARNING **: Attempting to set the permissions of `/home/pi/.local/share/recently-used.xbel', but failed: No such file or directory
+
+(leafpad:1731): Gtk-WARNING **: Attempting to store changes into `/home/pi/.local/share/recently-used.xbel', but failed: Failed to create file '/home/pi/.local/share/recently-used.xbel.0E9Y2X': No such file or directory
+
+(leafpad:1731): Gtk-WARNING **: Attempting to set the permissions of `/home/pi/.local/share/recently-used.xbel', but failed: No such file or directory
+
+(leafpad:1751): Gtk-WARNING **: Attempting to store changes into `/home/pi/.local/share/recently-used.xbel', but failed: Failed to create file '/home/pi/.local/share/recently-used.xbel.WXP82X': No such file or directory
+
+(leafpad:1751): Gtk-WARNING **: Attempting to set the permissions of `/home/pi/.local/share/recently-used.xbel', but failed: No such file or directory
+
+(leafpad:1751): Gtk-WARNING **: Attempting to store changes into `/home/pi/.local/share/recently-used.xbel', but failed: Failed to create file '/home/pi/.local/share/recently-used.xbel.CFT82X': No such file or directory
+
+(leafpad:1751): Gtk-WARNING **: Attempting to set the permissions of `/home/pi/.local/share/recently-used.xbel', but failed: No such file or directory
+
+(leafpad:1751): Gtk-WARNING **: Attempting to store changes into `/home/pi/.local/share/recently-used.xbel', but failed: Failed to create file '/home/pi/.local/share/recently-used.xbel.MZO62X': No such file or directory
+
+(leafpad:1751): Gtk-WARNING **: Attempting to set the permissions of `/home/pi/.local/share/recently-used.xbel', but failed: No such file or directory
+Xsession: X session started for pi at Wed Aug 12 13:02:21 UTC 2015
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+Xsession: X session started for pi at Thu Oct  8 19:18:41 UTC 2015
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+Xsession: X session started for pi at Thu Oct 15 19:10:23 UTC 2015
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+Xsession: X session started for pi at Thu Oct 22 19:34:26 UTC 2015
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+total 16
+drwxr-xr-x 2 pi   pi   4096 Oct 15 19:42 Desktop
+drwxr-xr-x 2 pi   pi   4096 Jul 15  2012 python_games
+drwxrwxrwx 2 root root 4096 Oct 15 19:18 simpleserver
+-rw-r--r-- 1 pi   pi    308 Oct  8 19:52 test.py
+total 16
+drwxr-xr-x 2 pi   pi   4096 Oct 15 19:42 Desktop
+drwxr-xr-x 2 pi   pi   4096 Jul 15  2012 python_games
+drwxrwxrwx 2 root root 4096 Oct 15 19:18 simpleserver
+-rw-r--r-- 1 pi   pi    308 Oct  8 19:52 test.py
+Desktop
+python_games
+simpleserver
+test.py
