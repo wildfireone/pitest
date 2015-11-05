@@ -1,5 +1,5 @@
 import tweepy
-import psutils
+import psutil
 consumer_key = 'WPukxs264EgIdelArs33LLpSd'
 consumer_secret = 's7bw8nrIutE07hVIU2oZNerFsaA6Qmj7VznecpB5B72eOWXdYv'
 access_token = '14812487-x5hEARyRyVE7X4QQ2X1YhnJbb4bICpRjQgNxNIs8J'
