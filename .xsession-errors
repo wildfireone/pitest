@@ -54,3 +54,6 @@ Desktop
 python_games
 simpleserver
 test.py
+Xsession: X session started for pi at Wed Oct 28 14:13:54 UTC 2015
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"

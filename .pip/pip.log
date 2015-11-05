@@ -1,0 +1,119 @@
+Downloading/unpacking tweepy
+
+  Getting page http://pypi.python.org/simple/tweepy
+  URLs to search for versions for tweepy:
+  * http://pypi.python.org/simple/tweepy/
+  Getting page http://pypi.python.org/simple/tweepy/
+  Analyzing links from page https://pypi.python.org/simple/tweepy/
+    Skipping link https://pypi.python.org/packages/2.4/t/tweepy/tweepy-1.2-py2.4.egg#md5=bab297a0fb2b049968d68eb37c991706 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/t/tweepy/tweepy-1.3-py2.4.egg#md5=49dd994af8d843f18faece8c8d2ee3a6 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/t/tweepy/tweepy-1.4-py2.4.egg#md5=71d6bc70cf36f6ee8a20d5ad2cb9ea44 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/t/tweepy/tweepy-1.5-py2.4.egg#md5=9bd2e6eabe737aa9fde2004f3a35e481 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/t/tweepy/tweepy-1.6-py2.4.egg#md5=19e06cc7775f4d6190898c1d2a99f6b9 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/t/tweepy/tweepy-1.7.1-py2.4.egg#md5=9532717b5938abd3536d67cbd8f1e8f0 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.1-py2.5.egg#md5=054a2821b42bdf5f06332ed6360d03a6 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.10-py2.5.egg#md5=021521c1e339e034e89737d7ba33ddad (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.2-py2.5.egg#md5=37b08fd9ce5f38fa776dc7e0038b909f (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.2.win32-py2.5.exe#md5=43bc1f20012b86cf83d7e72c09417fc4 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.3-py2.5.egg#md5=f6e324008c3370a60445f54ce97ed0da (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.4-py2.5.egg#md5=5dc4980a7ea43957226cafe665f16baa (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.5-py2.5.egg#md5=09993628ec37ba1427498e02ea6a14bf (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.6-py2.5.egg#md5=435c84f45b4aefb951c6ca85e6490474 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.7.1-py2.5.egg#md5=8e6b2ed2cd86a74543d642991cd01871 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.8-py2.5.egg#md5=d5733694cac413d625f887fa9f76438a (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/t/tweepy/tweepy-1.9-py2.5.egg#md5=097457dd6d043c36e6b0614c99c6232a (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.1-py2.6.egg#md5=151f41776fe2a5e30ad60d9f5904aeb8 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.10-py2.6.egg#md5=55d85ef9ae6cf1c452c58be2b91e5519 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.13-py2.6.egg#md5=fce87dc006b9eb9e49b73e3c63c12b36 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.2-py2.6.egg#md5=5e03feb4d0010c3e75abaeb137d9db2c (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.3-py2.6.egg#md5=6fb3e335e4520b593bc4cbe04b6de043 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.4-py2.6.egg#md5=48c762c8c7dd6216fe0e4369cb797489 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.5-py2.6.egg#md5=b3d6a7e2fb661d04fab33848c0c9a766 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.6-py2.6.egg#md5=be1d2b102d121ff4654541f1cf0e469f (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.7.1-py2.6.egg#md5=920800078a8820cbc75c0ca2527dbe60 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.8-py2.6.egg#md5=83f9986ea8bf17d754c3e25836d2a58f (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-1.9-py2.6.egg#md5=9d6957150ca0fc70378e4968d515099c (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-2.0-py2.6.egg#md5=96ebac083fa0bbc3fd84d3bfe8fb0d11 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-2.1-py2.6.egg#md5=faf9f5b253d2fefcf901d36740633ba9 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-2.2-py2.6.egg#md5=69c47b74a914f63ad014ae68cd863122 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/t/tweepy/tweepy-2.3.0-py2.6.egg#md5=9499cb5099fd2d56a5e6e458c6ea18b5 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-1.10-py2.7.egg#md5=1b8841ae538d94c10f56e2b5fcfa859b (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-1.13-py2.7.egg#md5=c73981112c9c79ff4ec3e70fbd55d525 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-1.8-py2.7.egg#md5=61643a97064deb437ec61f2c1f65a5d4 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-1.9-py2.7.egg#md5=6c2588b0f28cfb6609791583b9b6a06d (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-2.0-py2.7.egg#md5=193993b0df7c4e28fba5bb457e401d91 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-2.1-py2.7.egg#md5=117ccbba16c6f4de6cbaaaee26398647 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-2.2-py2.7.egg#md5=413737a2d31e075258771ac8f05b192a (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-2.3.0-py2.7.egg#md5=e1a30d8b4357267ce8f5cde2d97955d7 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-3.2.0-py2.py3-none-any.whl#md5=2b09870b694b8f8427d83e4fa2d317dd (from https://pypi.python.org/simple/tweepy/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/t/tweepy/tweepy-3.3.0-py2.py3-none-any.whl#md5=c88414cdb1ee97923812b4c3a59e9ccd (from https://pypi.python.org/simple/tweepy/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/t/tweepy/tweepy-3.1.0-py2.py3-none-any.whl#md5=77c54170024c74505cb8a5950e5f8d97 (from https://pypi.python.org/simple/tweepy/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/any/t/tweepy/tweepy-3.0.linux-x86_64.tar.gz#md5=231bca3ba9d5ac1f493ddbe7fff6b424 (from https://pypi.python.org/simple/tweepy/), version: 3.0.linux-x86_64
+    Skipping link https://pypi.python.org/packages/py2.py3/t/tweepy/tweepy-3.4.0-py2.py3-none-any.whl#md5=cde8a2ea1669403b0fdcb9705b491f0b (from https://pypi.python.org/simple/tweepy/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.1.tar.gz#md5=ed06e8e3a0f666166887d6c71b9fecaa (from https://pypi.python.org/simple/tweepy/), version: 1.1
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.10.tar.gz#md5=d429ce1b48b36e7f460dd010d8c1b404 (from https://pypi.python.org/simple/tweepy/), version: 1.10
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.11.tar.gz#md5=6d8d760f41e2473e20077279e65e17a0 (from https://pypi.python.org/simple/tweepy/), version: 1.11
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.12.tar.gz#md5=ff802f974e445ddc232a990324451179 (from https://pypi.python.org/simple/tweepy/), version: 1.12
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.13.tar.gz#md5=5814a206010de0cc575e9f5c325ca64a (from https://pypi.python.org/simple/tweepy/), version: 1.13
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.2.tar.gz#md5=0b0ff3b70d14dc55967338dc373f964f (from https://pypi.python.org/simple/tweepy/), version: 1.2
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.3.tar.gz#md5=c6c2ac4709db72c9cfc2f9ca0082f5db (from https://pypi.python.org/simple/tweepy/), version: 1.3
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.4.tar.gz#md5=2ff903dd56717e2fc1bd6b2d1f77aa81 (from https://pypi.python.org/simple/tweepy/), version: 1.4
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.5.tar.gz#md5=9ac8e3fb2113d76d1825a8d8c980a088 (from https://pypi.python.org/simple/tweepy/), version: 1.5
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.6.tar.gz#md5=172a3340ef45a080c1a6c6eb4da88434 (from https://pypi.python.org/simple/tweepy/), version: 1.6
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.7.1.tar.gz#md5=57905b4e6fd8ec52a22be37ee6ffcc31 (from https://pypi.python.org/simple/tweepy/), version: 1.7.1
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.8.tar.gz#md5=d356cfceac7c9911f3901f4ccd9f75d8 (from https://pypi.python.org/simple/tweepy/), version: 1.8
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-1.9.tar.gz#md5=95654a903600652baaa02c910026214f (from https://pypi.python.org/simple/tweepy/), version: 1.9
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-2.0.tar.gz#md5=58c92978aadc585dc878ff7cff8e5c90 (from https://pypi.python.org/simple/tweepy/), version: 2.0
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-2.1.tar.gz#md5=529819cc8a0b283b7b47470ceb06cd16 (from https://pypi.python.org/simple/tweepy/), version: 2.1
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-2.2.tar.gz#md5=c22454a64a29744e9a0a67ff24afc3b8 (from https://pypi.python.org/simple/tweepy/), version: 2.2
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-2.3.0.tar.gz#md5=065c80d244360988c61d64b5dfb7e229 (from https://pypi.python.org/simple/tweepy/), version: 2.3.0
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-3.0.tar.gz#md5=1067bf6200b2e1cc5a465ad6c951eea7 (from https://pypi.python.org/simple/tweepy/), version: 3.0
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-3.1.0.tar.gz#md5=b314128dc2e845c5c881eedc883d78d7 (from https://pypi.python.org/simple/tweepy/), version: 3.1.0
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-3.2.0.tar.gz#md5=df6a1b6b1f0ea0150af6d08a4d442881 (from https://pypi.python.org/simple/tweepy/), version: 3.2.0
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-3.3.0.tar.gz#md5=eb61154ad95f45ffc3dd015ffc63a730 (from https://pypi.python.org/simple/tweepy/), version: 3.3.0
+    Found link https://pypi.python.org/packages/source/t/tweepy/tweepy-3.4.0.tar.gz#md5=52e1210bfd8087e25a9536f76b0ae60b (from https://pypi.python.org/simple/tweepy/), version: 3.4.0
+  Using version 3.4.0 (newest of versions: 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.linux-x86_64, 3.0, 2.3.0, 2.2, 2.1, 2.0, 1.13, 1.12, 1.11, 1.10, 1.9, 1.8, 1.7.1, 1.6, 1.5, 1.4, 1.3, 1.2, 1.1)
+  Downloading tweepy-3.4.0.tar.gz
+
+  Downloading from URL https://pypi.python.org/packages/source/t/tweepy/tweepy-3.4.0.tar.gz#md5=52e1210bfd8087e25a9536f76b0ae60b (from https://pypi.python.org/simple/tweepy/)
+  Running setup.py egg_info for package tweepy
+
+    Traceback (most recent call last):
+
+      File "<string>", line 14, in <module>
+
+      File "/home/pi/build/tweepy/setup.py", line 17, in <module>
+
+        install_reqs = parse_requirements('requirements.txt', session=uuid.uuid1())
+
+    TypeError: parse_requirements() got an unexpected keyword argument 'session'
+
+    Complete output from command python setup.py egg_info:
+
+    Traceback (most recent call last):
+
+  File "<string>", line 14, in <module>
+
+  File "/home/pi/build/tweepy/setup.py", line 17, in <module>
+
+    install_reqs = parse_requirements('requirements.txt', session=uuid.uuid1())
+
+TypeError: parse_requirements() got an unexpected keyword argument 'session'
+
+----------------------------------------
+
+Command python setup.py egg_info failed with error code 1 in /home/pi/build/tweepy
+
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 104, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 245, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1009, in prepare_files
+    req_to_install.run_egg_info()
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 225, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "/usr/lib/python2.7/dist-packages/pip/__init__.py", line 256, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+InstallationError: Command python setup.py egg_info failed with error code 1 in /home/pi/build/tweepy
