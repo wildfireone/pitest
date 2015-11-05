@@ -6,5 +6,5 @@ access_token_secret = 'Dozik4wfubV4j8W5zaj8axtsCG4cSzbjm31VveFxqwYfw'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 twitter = tweepy.API(auth)
-twitter.update_status("hello world")
+twitter.update_status(status="hello world")
 print("done, exiting")
