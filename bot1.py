@@ -7,6 +7,7 @@ access_token_secret = 'Dozik4wfubV4j8W5zaj8axtsCG4cSzbjm31VveFxqwYfw'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 twitter = tweepy.API(auth)
+twitter.update_status(status = "Hello World")
 cpu_percent = psutil.cpu_percent(interval =1)
 twitter.update_status(status = "CPU percent currently:" + str(cpu_percent))
 print("done, exiting")
